@@ -1,0 +1,20 @@
+Enter choice: [0007.749] I> Welcome to MB1-recovery(prd-version : 14.01.171031-t186-M-00.00-6b33ecf5)
+[0007.757] I> rst_source : 0x0
+[0007.760] I> rst_level : 0x0
+[0007.762] I> Read lock all AES keyslots
+[0007.766] I> Read lock all RSA keyslots
+[0007.770] I> Clear SE keyslots left open by BR
+[0007.774] I> Boot-device: eMMC
+[0007.777] I> Entering into 3p server..
+[0007.781] I> Transport interface is USB
+[0007.784] I> tegrabl_usbf_priv_init:2576 full init:: [0007.789] I>  HIGH SPEED
+[0008.148] W> Get desc.Unsupported req: desc_index = 0
+[0008.155] I> transport_usbf_priv_open USB configuration success
+[0008.703] W> Get desc.Unsupported req: desc_index = 0
+[0009.456] I> Populate eeprom info for module cvm
+[0115.007] I> bit @ 0xd480000
+[0115.010] I> Downloading bct_bootrom at 0x000000004004e800
+[0115.017] I> downloaded image bct_bootrom successfully
+[0115.023] E> Bin size is more than the allocated space
+[0115.028] E> (0e874502): Failed to check bin load range
+
