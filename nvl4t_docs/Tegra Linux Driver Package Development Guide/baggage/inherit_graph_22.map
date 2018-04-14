@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" href="$structArgus_1_1UUID.html" title="A universally unique identifier. " alt="" coords="5,81,99,108"/>
+<area shape="rect" href="$classArgus_1_1NamedUUID.html" title="A universally unique identifier with a name (used for debugging purposes). " alt="" coords="148,81,281,108"/>
+<area shape="rect" href="$classArgus_1_1EventType.html" title="A unique identifier for a particular type of Event. " alt="" coords="348,5,471,32"/>
+<area shape="rect" href="$classArgus_1_1ExtensionName.html" title="Extension name UUID. " alt="" coords="332,56,487,83"/>
+<area shape="rect" href="$classArgus_1_1InterfaceID.html" title="A unique identifier for a libargus Interface. " alt="" coords="348,107,471,133"/>
+<area shape="rect" href="$classArgus_1_1PixelFormat.html" title="Pixel formats. " alt="" coords="343,157,476,184"/>
+</map>

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['nameduuid',['NamedUUID',['../classArgus_1_1NamedUUID.html#a3279cd9db732ce6a3c22220dc3c82bfb',1,'Argus::NamedUUID::NamedUUID(uint32_t time_low_, uint16_t time_mid_, uint16_t time_hi_and_version_, uint16_t clock_seq_, uint8_t c0, uint8_t c1, uint8_t c2, uint8_t c3, uint8_t c4, uint8_t c5, const char *name)'],['../classArgus_1_1NamedUUID.html#a8a123a06ef2136fbb946b56935130d66',1,'Argus::NamedUUID::NamedUUID(const NamedUUID &amp;copied)']]],
+  ['noncopyable',['NonCopyable',['../classArgus_1_1NonCopyable.html#a1aad733b06de586e1cee4c0aa8e8ff49',1,'Argus::NonCopyable']]],
+  ['nvbuffer',['NvBuffer',['../classNvBuffer.html#aef713b68a7a6ef913ddb4be53c5f6972',1,'NvBuffer::NvBuffer(enum v4l2_buf_type buf_type, enum v4l2_memory memory_type, uint32_t n_planes, NvBufferPlaneFormat *fmt, uint32_t index)'],['../classNvBuffer.html#a07589622b5a97d4e99aae8db7352bcfc',1,'NvBuffer::NvBuffer(uint32_t pixfmt, uint32_t width, uint32_t height, uint32_t index)'],['../classNvBuffer.html#a4928df089cc98f5af9bda0beda673504',1,'NvBuffer::NvBuffer(uint32_t size, uint32_t index)']]],
+  ['nvbuffercreate',['NvBufferCreate',['../group__ee__nvbuffering__group.html#gab159c94c574f75a3d7913bef8352722a',1,'nvbuf_utils.h']]],
+  ['nvbufferdestroy',['NvBufferDestroy',['../group__ee__nvbuffering__group.html#gab03cbe902e747420f02bb5b509b05968',1,'nvbuf_utils.h']]],
+  ['nvbuffergetparams',['NvBufferGetParams',['../group__ee__nvbuffering__group.html#gabd39426181a52065586917dfd470fa5a',1,'nvbuf_utils.h']]],
+  ['nvbuffermemmap',['NvBufferMemMap',['../group__ee__nvbuffering__group.html#gab6760a1b12067b32a80e7aa9e2a98d2b',1,'nvbuf_utils.h']]],
+  ['nvbuffermemsyncforcpu',['NvBufferMemSyncForCpu',['../group__ee__nvbuffering__group.html#ga8c26b181329a181b41498b06a4f66602',1,'nvbuf_utils.h']]],
+  ['nvbuffermemsyncfordevice',['NvBufferMemSyncForDevice',['../group__ee__nvbuffering__group.html#ga4a52fd88a031be9cca774b2c6ff98e4e',1,'nvbuf_utils.h']]],
+  ['nvbuffermemunmap',['NvBufferMemUnMap',['../group__ee__nvbuffering__group.html#ga5fd173847091ba84802f8f7e00ffda52',1,'nvbuf_utils.h']]],
+  ['nvdestroyeglimage',['NvDestroyEGLImage',['../group__ee__nvbuffering__group.html#gac62b0799a769d9f3d95f032c58844b0b',1,'nvbuf_utils.h']]],
+  ['nveglimagefromfd',['NvEGLImageFromFd',['../group__ee__nvbuffering__group.html#ga4212a5f3d97ca8fda12c563d3609fbdb',1,'nvbuf_utils.h']]],
+  ['nvelement',['NvElement',['../classNvElement.html#a5a582ac69fd12fc31b793d39cda65eae',1,'NvElement::NvElement(const char *name, NvElementProfiler::ProfilerField=NvElementProfiler::PROFILER_FIELD_NONE)'],['../classNvElement.html#a35d35a5b4dc26294591b9ca9ac1e1faf',1,'NvElement::NvElement(const NvElement &amp;that)']]],
+  ['nvosd_5fcreate_5fcontext',['nvosd_create_context',['../group__ee__nvosd__group.html#gadf168d96a2879ce45f9fb53745becf2f',1,'nvosd.h']]],
+  ['nvosd_5fdestroy_5fcontext',['nvosd_destroy_context',['../group__ee__nvosd__group.html#ga2073b759550f719e2ab8cb1ebdbd3027',1,'nvosd.h']]],
+  ['nvosd_5fdraw_5farrows',['nvosd_draw_arrows',['../group__ee__nvosd__group.html#gaa6ef16da5d682cd714c849c6bea8db5a',1,'nvosd.h']]],
+  ['nvosd_5fdraw_5fcircles',['nvosd_draw_circles',['../group__ee__nvosd__group.html#ga5e08bb30fe734937e5d2969d29ff4990',1,'nvosd.h']]],
+  ['nvosd_5fdraw_5frectangles',['nvosd_draw_rectangles',['../group__ee__nvosd__group.html#ga7da2990d937d4c8963d434ceafac97c0',1,'nvosd.h']]],
+  ['nvosd_5finit_5fclass_5fclrs',['nvosd_init_class_clrs',['../group__ee__nvosd__group.html#ga2820a66110e6342492f402c7e99d6d37',1,'nvosd.h']]],
+  ['nvosd_5fput_5ftext',['nvosd_put_text',['../group__ee__nvosd__group.html#gad9ac47c6a34064d1c137233f5a51a9e8',1,'nvosd.h']]],
+  ['nvosd_5fset_5fclock_5fparams',['nvosd_set_clock_params',['../group__ee__nvosd__group.html#ga88d020390134d86c40d4f6a95e9c4109',1,'nvosd.h']]],
+  ['nvv4l2element',['NvV4l2Element',['../classNvV4l2Element.html#ad3afe6d5bbfc97b9b744bd275ba24836',1,'NvV4l2Element']]]
+];

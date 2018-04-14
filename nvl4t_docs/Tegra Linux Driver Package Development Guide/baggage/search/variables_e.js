@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['peak_5fcpu_5fusage',['peak_cpu_usage',['../structNvApplicationProfiler_1_1NvAppProfilerData.html#a8ab55fbee35029b7f91b3523a2105365',1,'NvApplicationProfiler::NvAppProfilerData']]],
+  ['pitch',['pitch',['../struct__NvDrmBO.html#ae984e193d3222ee1a601b31cd587ef3d',1,'_NvDrmBO::pitch()'],['../struct__NvBufferParams.html#a9cd513fafeab48b6f486ad37cc383f01',1,'_NvBufferParams::pitch()']]],
+  ['pixel_5fformat',['pixel_format',['../struct__NvBufferParams.html#a4b900722de74a9b06e0e60141a1ccd1c',1,'_NvBufferParams']]],
+  ['plane_5fcond',['plane_cond',['../classNvV4l2ElementPlane.html#acf2106b256d968890443f75d60e1e0eb',1,'NvV4l2ElementPlane']]],
+  ['plane_5flock',['plane_lock',['../classNvV4l2ElementPlane.html#a241f552ce68715743739e00992960784',1,'NvV4l2ElementPlane']]],
+  ['planes',['planes',['../classNvBuffer.html#ad7209d49f791201dec722f3fc289223c',1,'NvBuffer']]],
+  ['pmvinfo',['pMVInfo',['../structv4l2__ctrl__videoenc__outputbuf__metadata__MV__.html#a37e4ffe9cd1fbad3c6353bf77f26b87e',1,'v4l2_ctrl_videoenc_outputbuf_metadata_MV_']]],
+  ['profiler',['profiler',['../classNvElement.html#ae48e331a8dabe1f5c3413027453a84eb',1,'NvElement']]],
+  ['profiler_5ffield_5fall',['PROFILER_FIELD_ALL',['../group__Defines.html#gaa29f641256f8ca686afc7ff91114b22b',1,'NvElementProfiler']]],
+  ['profiler_5ffield_5ffps',['PROFILER_FIELD_FPS',['../group__Defines.html#gab7feb18cd35a32c2a49bb047d5353f0c',1,'NvElementProfiler']]],
+  ['profiler_5ffield_5flate_5funits',['PROFILER_FIELD_LATE_UNITS',['../group__Defines.html#gaa2f2b76fc228850c7954564e07a1010f',1,'NvElementProfiler']]],
+  ['profiler_5ffield_5flatencies',['PROFILER_FIELD_LATENCIES',['../group__Defines.html#ga25004ba6df30aa94d25a342c8d9948a5',1,'NvElementProfiler']]],
+  ['profiler_5ffield_5fnone',['PROFILER_FIELD_NONE',['../group__Defines.html#gae276d0294d04be2f6d11b71c25b10584',1,'NvElementProfiler']]],
+  ['profiler_5ffield_5ftotal_5funits',['PROFILER_FIELD_TOTAL_UNITS',['../group__Defines.html#gae312dfb5aeb5ac0a14034ea9f02d697b',1,'NvElementProfiler']]],
+  ['profiling_5ftime',['profiling_time',['../structNvElementProfiler_1_1NvElementProfilerData.html#a15cd84c8633ecdffcd5ea19823a68e20',1,'NvElementProfiler::NvElementProfilerData']]],
+  ['psize',['psize',['../struct__NvBufferParams.html#a41c94fea5f9a38c588712d6d3557dbee',1,'_NvBufferParams']]]
+];

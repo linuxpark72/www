@@ -1,0 +1,4 @@
+<map id="_NvOSD_TextParams" name="_NvOSD_TextParams">
+<area shape="rect" href="$struct__NvOSD__ColorParams.html" title="Holds the color parameters of the box or text to be overlayed. " alt="" coords="33,5,185,32"/>
+<area shape="rect" href="$struct__NvOSD__FontParams.html" title="Holds the font parameters of the text to be overlayed. " alt="" coords="149,96,296,123"/>
+</map>
